@@ -1,0 +1,23 @@
+{
+    "name": "jsxx-loader",
+    "version": "0.12.2",
+    "description": "special JSX loader for webpack",
+    "main": "index.js",
+    "dependencies": {
+        "react-tools": ">=0.12.1",
+        "loader-utils": "^0.2.2"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wensheng/jsxx-loader"
+     },
+    "keywords": [
+         "webpack",
+         "jsx"
+    ],
+    "author": "Wensheng Wang",
+    "license": "Apache 2"
+}
